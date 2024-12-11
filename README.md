@@ -1,1 +1,3 @@
 # ordermanagementsystem-nw2g-ctcc0513
+
+EasyBuy is a Java based application to manage orders for goods and services allowing great use of number of mechanisms like queue and linked list to control and store orders. When it comes to functionalities, the app is designed to have an easy to use interface where authorized users will be able to create, search, update and delete orders easily. EasyBuy developed a secure user login system that includes check username validity and allows only authorized personal to handle sensitive data. Java Programming with real-life applications such as: file management, authentications and dynamic data structure makes this project ideal for anyone seeking to learn about Java technologies.
